@@ -1,2 +1,0 @@
-# web-designing
-lab exam
